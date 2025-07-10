@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Developpeur web, java
+## Developpeur web
 ## apprenant en genie logiciel
 
 <!--
